@@ -8,7 +8,7 @@ Es gibt hier https://crowdin.com/project/magento-2/de auch einen Ansatz für die
 Und für Magento 1.x gibt es weiterhin das deutsche Sprachpaket von Rico Neitzel: https://github.com/riconeitzel/German_LocalePack_de_DE
 
 # Installation
- - Alle Dateien nach `/app/i18n/finalbitsw/de_CH/` kopieren
+ - Alle Dateien nach `/app/i18n/FinalBitSW/de_CH/` kopieren
 
 Aus dem Magento-Root-Verzeichnis folgende Befehle aufrufen:
 ```bash
@@ -21,7 +21,7 @@ php bin/magento setup:di:compile
 
 # Installation mit Composer
 ```bash
-composer require finalbitsw/mage2-locale-de-ch
+composer require FinalBitSW/mage2-locale-de-ch
 rm pub/static/frontend/Magento/luma/de_CH/js-translation.json
 php bin/magento setup:static-content:deploy de_CH
 ```
