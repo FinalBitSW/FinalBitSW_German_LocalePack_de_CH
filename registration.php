@@ -1,12 +1,12 @@
 <?php
 /**
- * Copyright © 2017 FinalBit Solution. All rights reserved.
+ * Copyright Â© 2017 FinalBit Solution. All rights reserved.
  * http://www.radicalwear.ch
  * See LICENSE.txt for license details.
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'finalbitsw_de_ch',
+    'FinalBitSW_de_ch',
     __DIR__
 );
