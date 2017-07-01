@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-/**
- * Copyright © 2017 FinalBit Solution. All rights reserved.
- * http://www.radicalwear.ch
- * See LICENSE.txt for license details.
- */
--->
+    Copyright © 2017 FinalBit Solution. All rights reserved.
+    http://www.finalbit.ch
+    See LICENSE.txt for license details.
+ -->
 
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>de_CH</code>
-    <vendor>FinalBitSW</vendor>
+    <vendor>FinalBit</vendor>
     <package>de_ch</package>
 </language>

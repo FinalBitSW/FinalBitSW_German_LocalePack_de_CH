@@ -1,18 +1,21 @@
 {
-    "name": "finalbitsw/language-de-ch",
-    "description": "German (Switzerland) language",
-    "version": "100.0.0",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ],
-    "require": {
-        "magento/framework": "100.0.*"
-    },
-    "type": "magento2-language",
-    "autoload": {
-        "files": [
-            "registration.php"
-        ]
-    }
+	"name" : "finalbit/language-de_ch",
+	"description" : "German (Switzerland) language",
+	"version" : "100.0.0",
+	"license" : [
+		"OSL-3.0",
+		"AFL-3.0"
+	],
+	"type" : "magento2-language",
+	"autoload" : {
+		"files" : [
+			"registration.php"
+		]
+	},
+	"authors" : [{
+			"name" : "FinalBit",
+			"email" : "service@finalbit.ch",
+			"homepage" : "http://www.finalbit.ch"
+		}
+	]
 }
